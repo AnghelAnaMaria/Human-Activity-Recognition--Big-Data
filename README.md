@@ -1,4 +1,4 @@
-# My Project
+# Human Activity Recognition
 
 ## Jupyter Notebook
 
